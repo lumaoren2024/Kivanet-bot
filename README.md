@@ -26,8 +26,11 @@ rf：85VM4W
 ```
 
 ``proxy.txt``代理设置，用于挂机使用！
+
 一行一个，例子:
+
 协议://user:pass@ip:port
+
 
 ``reg.txt``自动注册配置
 ```txt
