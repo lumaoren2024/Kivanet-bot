@@ -2,8 +2,11 @@
 一个东南亚的tg哥们发给我的项目，让我写一个！项目类似pi一样的项目。最近没啥项目写，就干啦！
 
 注册：https://kivanet.com/register.html?code=85VM4W
+
 rf：85VM4W
+
 发送电子邮件：使用相同的注册电子邮件向 verify@kivanet.com 发送Verify Me 标题的邮件
+
 登录：https://app.kivanet.com/
 
 
